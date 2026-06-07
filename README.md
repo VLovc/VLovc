@@ -19,7 +19,7 @@
 <div align="center">
 ---
 
-## 　▎About Me
+▎About Me
 
 | | |
 |:---:|:---|
@@ -34,7 +34,7 @@
 
 ---
 </div>
-## 　▎My Daily Driver
+▎My Daily Driver
 
 <div align="center">
 
